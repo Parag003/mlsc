@@ -66,7 +66,7 @@ export default function Navbar({ children }) {
           <Link href="/"> Home </Link>
           <Link href="/about">About</Link>
           <Link href="/team">Team</Link>
-          <Link href="/forms">Form</Link>
+          <Link href="#">Form</Link>
         </div>
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
